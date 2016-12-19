@@ -1,0 +1,18 @@
+{
+  "name": "tufiestanode",
+  "version": "0.1.0",
+  "description": "tufiesta node backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "rhonaldomaster@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "http": "0.0.0",
+    "mysql": "^2.12.0",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
+}
